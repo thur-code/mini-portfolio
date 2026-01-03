@@ -1,4 +1,4 @@
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/mini-portfolio-origamid/)
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/mini-portfolio/)
 
 ---
 
