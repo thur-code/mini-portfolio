@@ -1,15 +1,4 @@
-# 📌 Mini Portfólio – Curso Origamid
-
-Este é um projeto desenvolvido como parte do curso **[HTML e CSS para Iniciantes](https://www.origamid.com/curso/html-e-css-para-iniciantes/)** da Origamid.  
-O objetivo principal foi praticar a estruturação semântica em **HTML5** e o uso de **CSS3** para criar um layout responsivo.
-
----
-
-## 🚀 Preview
-
-🔗 [Acesse o projeto online aqui](https://thur-code.github.io/mini-portfolio-origamid/)  
-
-![Preview do site](./img.png)
+🔗 [Acesse o projeto online aqui](https://thur-code.github.io/mini-portfolio-origamid/)
 
 ---
 
@@ -42,7 +31,4 @@ O objetivo principal foi praticar a estruturação semântica em **HTML5** e o u
 
 ---
 
-## 📝 Observações
-
-Este projeto foi feito **de forma guiada**, seguindo as aulas do curso da Origamid.  
-O código e o design foram mantidos próximos ao exemplo do professor, com o objetivo de **consolidar os fundamentos de HTML e CSS**.
+![Preview do site](./img.png)
